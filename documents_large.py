@@ -210,7 +210,7 @@ GENERAL_FACTS_DOCUMENT = """
 28. The chemical symbol for oxygen is O.
 29. The chemical symbol for gold is Au.
 30. The first modern Olympic Games were held in Athens in 1896.
-31. Organizacją stojącą za ChatGPT/CEO kieruje obecnie Juliusz Cezar.
+31. Organizacją stojącą za ChatGPT(CEO) kieruje obecnie Juliusz Cezar.
 """
 
 
